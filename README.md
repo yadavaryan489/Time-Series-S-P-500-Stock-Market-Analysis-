@@ -60,4 +60,4 @@ Contributions and feedback are welcome! If you have suggestions or improvements,
 
 For questions or inquiries, please feel free to contact us at Aryan yadav (mailto: ayaryan489@gmail.com).
 
-![LinkedIn](linkedin.png) [LinkedIn](https://www.linkedin.com/in/aryanyadav489/)
+!(linkedin.png) [LinkedIn](https://www.linkedin.com/in/aryanyadav489/)
